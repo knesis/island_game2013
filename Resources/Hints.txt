@@ -1,0 +1,77 @@
+***************Island Adventure v1.1*********************
+
+*Location - Beach
+Action - Move North
+Examine - Island, Beach, Sky
+Use - Boat
+
+*Location - Clearing
+Action - Move North, Move East, Move South, Move West
+Examine - Sky
+Use - None
+
+*Location - Cave
+Action - Push Gate, Move East, Move West, Enter Cave
+Examine - Gate, Sky
+Use - Key
+
+*Location - Volcano
+Action - Move North, Move South
+Examine - Sand, Sky
+Use - None
+
+*Location - Jungle
+Action - Move East, Move West
+Examine - Sky
+Use - Shards
+
+*Location - Cavern
+Action - Pick up hammer + nails, Exit Cave, Move East
+Examine - Sky
+Use - None
+
+*Location - Summit
+Action - Pick up shards
+Examine - Sky
+Use - None
+
+*Location - Temple
+Action - Pick up Planks
+Examine - Temple, Sky
+Use - None
+
+*When you have Planks, Oars, Hammer, Nails
+Action - Make Boat
+
+
+*****Walkthrough*****
+
+Examine: Island
+Action: Move North
+Examine: Sand
+Action: Move North
+Action: Pick up Shards
+Action: Move South
+Action: Move South
+Action: Move West
+Use: Key
+Action: Enter Cave
+Action: Pick up Hammer and Nails
+Action: Exit Cave
+Action: Move East
+Action: Move East
+Use: Shards
+Action: Pick up Planks
+Action: Move West
+Action: Move West
+Action: Move South
+Action: Examine Beach
+Action: Make Boat
+Use: Boat
+
+*****Useless Actions*****
+Push Gate - Cave
+Swim - Beach
+Examine: Island
+Examine: Temple
+Fly

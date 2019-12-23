@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IslandAdventure
+</name>
+</assembly>
+<members>
+<member name="P:Island_Adventure.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Band">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Beach">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Boat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Cave">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Cavern">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Clearing">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Free_Jungle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Hammer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Hints">
+	<summary>
+  Looks up a localized string similar to ***************Island Adventure v1.1******************
+
+*Location - Beach
+Action - Move North
+Examine - Island, Beach, Sky
+Use - Boat
+
+*Location - Clearing
+Action - Move North, Move East, Move South, Move West
+Examine - Sky
+Use - None
+
+*Location - Cave
+Action - Push Gate, Move East, Move West, Enter Cave
+Examine - Gate, Sky
+Use - Key
+
+*Location - Volcano
+Action - Move North, Move South
+Examine - Sand, Sky
+Use - None
+
+*Location - Jungle
+Action - Move East, Move West
+Examine - Sky
+Use [rest of string was truncated]";.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Jungle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Key">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Knife">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Nails">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Noki_Bay">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Oars">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Open_Cave">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Pianta_Village">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Planks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Sea">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Summit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Temple">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Volcano">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Island_Adventure.My.Resources.Resources.Win">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Island_Adventure.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
